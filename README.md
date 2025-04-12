@@ -1,2 +1,3 @@
 # Github_Concepts
-This is for practising github concepts
+This is for practising github concepts.
+Author : Sumit Kumar
